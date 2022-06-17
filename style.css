@@ -1,3 +1,8 @@
+hr{
+    border-bottom: 0;
+    border-top-width: 1px;
+    border-top-color: #e3e3eb;
+}
 .text{
     padding-left: 20px;
     padding-right: 20px;
@@ -28,6 +33,9 @@
     font-style: italic;
     font-family: "Arial";
 }
+.proposition{
+    width: 100%;
+}
 .h1{
     font-size: 24px;
     line-height: 24px;
@@ -45,6 +53,7 @@
 .button1{
     margin-left: 15px;
     display: inline-block;
+    margin-bottom: 30px;
 }
 .table3{
     background-color: #ededf5;
@@ -52,6 +61,7 @@
 .cols td{
     text-align: center;
     width: 33%;
+    padding: 10px;
 }
 .t3_p1{
     font-size: 14px;
@@ -65,4 +75,32 @@
     line-height: 18px;
     color: #666666;
     font-family: "Arial";
+}
+.table4 td{
+    width: 50%;
+    vertical-align: top;
+    text-align: left;
+    padding: 20px;
+    padding-bottom: 0;
+}
+.table4 img{
+    width: 100%;
+}
+.table4 a{
+    font-size: 16px;
+    line-height: 24px;
+    color: #1f1f56;
+    font-weight: bold;
+    font-family: "Arial";
+    text-decoration: none;
+}
+.table4 p{
+    font-size: 13px;
+    line-height: 19px;
+    color: #9999a6;
+    font-family: "Arial";
+}
+
+.table5 .footer1{
+    text-align: center;
 }
