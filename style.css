@@ -100,7 +100,24 @@ hr{
     color: #9999a6;
     font-family: "Arial";
 }
-
+.table5{
+    background-color: #fd8300;
+    background-image: url(https://raw.githubusercontent.com/Taras-Bilyk/hata_plus_email/master/images/background.jpg);
+    background-repeat: repeat;
+}
 .table5 .footer1{
     text-align: center;
+}
+.f1p1{
+    font-size: 24px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Arial";
+}
+.f1p2{
+    font-size: 13px;
+    line-height: 20px;
+    color: #ffffff;
+    font-family: "Arial";
 }
