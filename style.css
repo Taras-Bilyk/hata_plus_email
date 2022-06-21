@@ -1,7 +1,22 @@
+body{
+    margin: 0;
+}
+.padding10{
+    padding: 10px;
+}
 hr{
     border-bottom: 0;
     border-top-width: 1px;
     border-top-color: #e3e3eb;
+}
+.td1{
+    background-color: #dcdce5;
+}
+.td2{
+    background-color: #f5f5f5;
+}
+.table1{
+    background-color: #ffffff;
 }
 .text{
     padding-left: 20px;
@@ -9,13 +24,14 @@ hr{
     text-align: left;
 }
 .logo_td{
-    width: 50%;
+    width: 43%;
     padding-left: 20px;
 }
 .phones{
     text-align: right;
-    padding-top: 10px;
-    padding-right: 20px;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-left: 15px;
 }
 .phones a{
     font-size: 16px;
@@ -32,6 +48,8 @@ hr{
     color: #9999a6;
     font-style: italic;
     font-family: "Arial";
+    margin: 0;
+
 }
 .proposition{
     width: 100%;
@@ -42,6 +60,9 @@ hr{
     color: #24242b;
     font-weight: bold;
     font-family: "Arial";
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 15px;
 }
 .t1{
     font-size: 14px;
@@ -51,6 +72,11 @@ hr{
     padding-bottom: 10px;
 }
 .button1{
+    display: inline-block;
+    margin-left: 15px;
+    margin-bottom: 20px;
+}
+.button1_a{
     margin-left: 15px;
     display: inline-block;
     margin-bottom: 30px;
@@ -62,6 +88,9 @@ hr{
     text-align: center;
     width: 33%;
     padding: 10px;
+    vertical-align: top;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .t3_p1{
     font-size: 14px;
@@ -80,11 +109,14 @@ hr{
     width: 50%;
     vertical-align: top;
     text-align: left;
-    padding: 20px;
-    padding-bottom: 0;
+    /* padding: 20px;
+    padding-bottom: 20px; */
+    padding: 2%;
+    padding-bottom: 2%;
 }
 .table4 img{
-    width: 100%;
+    /* width: 100%; */
+    width: 250px;
 }
 .table4 a{
     font-size: 16px;
@@ -99,14 +131,24 @@ hr{
     line-height: 19px;
     color: #9999a6;
     font-family: "Arial";
+    width: 260px;
+    height: 65px;
+}
+.house_table{
+    background-color: #ffffff;
 }
 .table5{
     background-color: #fd8300;
     background-image: url(https://raw.githubusercontent.com/Taras-Bilyk/hata_plus_email/master/images/background.jpg);
     background-repeat: repeat;
 }
+.table5 td{
+    text-align: center;
+}
 .table5 .footer1{
     text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 .f1p1{
     font-size: 24px;
@@ -114,10 +156,42 @@ hr{
     color: #ffffff;
     font-weight: bold;
     font-family: "Arial";
+    margin: 0;
 }
 .f1p2{
     font-size: 13px;
     line-height: 20px;
     color: #ffffff;
     font-family: "Arial";
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.table6{
+    background-color: #08081a;
+    width: 600px;
+}
+.table6 td{
+    text-align: center;
+}
+.table6 a{
+    display: inline-block;
+    margin: 7px;
+    margin-top: 20px;
+}
+.button3{
+    display: inline-block;
+}
+.copyright{
+    font-size: 13px;
+    line-height: 18px;
+    color: #9999a6;
+    font-family: "Arial";
+}
+.f_a,
+.f_a a{
+    font-size: 11px;
+    line-height: 18px;
+    color: #fd8300;
+    font-family: "Arial";
+    text-decoration: none;
 }
