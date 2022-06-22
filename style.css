@@ -8,6 +8,7 @@ hr{
     border-bottom: 0;
     border-top-width: 1px;
     border-top-color: #e3e3eb;
+    /* margin: 0; */
 }
 .td1{
     background-color: #dcdce5;
@@ -26,12 +27,14 @@ hr{
 .logo_td{
     width: 43%;
     padding-left: 20px;
+    padding-bottom: 5px;
 }
 .phones{
     text-align: right;
     padding-top: 2%;
     padding-right: 2%;
     padding-left: 15px;
+    padding-bottom: 5px;
 }
 .phones a{
     font-size: 16px;
@@ -106,13 +109,14 @@ hr{
     font-family: "Arial";
 }
 .table4 td{
-    width: 50%;
+    width: 300px;
     vertical-align: top;
     text-align: left;
     /* padding: 20px;
     padding-bottom: 20px; */
-    padding: 2%;
-    padding-bottom: 2%;
+    /* padding: 2%;
+    padding-bottom: 2%; */
+    padding: 10px;
 }
 .table4 img{
     /* width: 100%; */
@@ -137,7 +141,7 @@ hr{
 .house_table{
     background-color: #ffffff;
 }
-.table5{
+.td5{
     background-color: #fd8300;
     background-image: url(https://raw.githubusercontent.com/Taras-Bilyk/hata_plus_email/master/images/background.jpg);
     background-repeat: repeat;
@@ -166,9 +170,13 @@ hr{
     margin-top: 20px;
     margin-bottom: 30px;
 }
+.td6{
+    background-color: #08081a;
+}
 .table6{
     background-color: #08081a;
-    width: 600px;
+    /* width: 100%; */
+    /* width: 600px; */
 }
 .table6 td{
     text-align: center;
