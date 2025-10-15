@@ -4,7 +4,7 @@ Email created to refresh my HTML and CSS skills.
 
 ## Description
 This project was made to revisit the basics of HTML and CSS layout.  
-The site is dedicated to Hata Plus Email.
+The email is dedicated to Hata Plus Email.
 
 ## Screenshots
 <img src="images/scr/scr_1.png" width="400">
